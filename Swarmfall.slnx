@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/bench/">
+    <Project Path="bench/Swarmfall.Bench/Swarmfall.Bench.csproj" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/Swarmfall.Core/Swarmfall.Core.csproj" />
+    <Project Path="src/Swarmfall/Swarmfall.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Swarmfall.Tests/Swarmfall.Tests.csproj" />
+  </Folder>
+</Solution>
